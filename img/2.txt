@@ -1,0 +1,10 @@
+Curve type: tan
+Iteration: 9
+Speed: 206
+Height: 33
+X-offset: -140
+Horizontal step move: 298
+Opacity: 0.06
+Curve color: -16711896
+Background color: -16711423
+Gradient disabled 

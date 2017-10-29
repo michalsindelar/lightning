@@ -1,0 +1,13 @@
+Curve type: upDown
+Iteration: 1
+Speed: 46
+Height: 51
+X-offset: -50
+Horizontal step move: 737
+Opacity: 0.1
+Curve color: -1516085
+Background color: -16711423
+Gradient enabled 
+Gradient type: radial
+Color 1: -1516085
+Color 2: -3296384

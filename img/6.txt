@@ -1,0 +1,13 @@
+Curve type: tan
+Iteration: 1
+Speed: 30
+Height: 134
+X-offset: -100
+Horizontal step move: 183
+Opacity: 0.25
+Curve color: -12940144
+Background color: -16777216
+Gradient enabled 
+Gradient type: radial
+Color 1: -65536
+Color 2: -16757505

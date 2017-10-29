@@ -1,0 +1,13 @@
+Curve type: sin
+Iteration: 12
+Speed: 129
+Height: 134
+X-offset: -33
+Horizontal step move: 273
+Opacity: 0.25
+Curve color: -9793848
+Background color: -16777216
+Gradient enabled 
+Gradient type: radial
+Color 1: -9793848
+Color 2: -16777216
